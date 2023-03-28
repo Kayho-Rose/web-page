@@ -1,0 +1,21 @@
+body{
+    background: #262626;
+    color: #D9D9D9;
+    font-family: "Prompt", sans-serif;
+    margin: 0;
+
+}
+
+#hero {
+    
+    background-image: url("images/movie.PNG");
+    background-size: cover;
+    padding: 90px 0;
+    text-shadow: 0px 0px 20px #262626;
+    font-family: 'Anton', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 45px;
+    align-items: center;
+    text-align: center;
+}
